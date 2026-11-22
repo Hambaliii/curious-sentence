@@ -1,5 +1,9 @@
 # The sentence you never noticed
 
+[![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/Hambaliii/curious-sentence/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/Hambaliii/curious-sentence/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+
 Running this program writes one short text to `entry.txt` in the output directory (`MAKEFUN_OUTPUT_DIR` if set, else `/output`).
 
 ## Why this text
@@ -17,3 +21,7 @@ License: MIT (see LICENSE).
 ## Output
 
 The program writes `entry.txt` containing exactly 279 Unicode code points (281 bytes, UTF-8), with no trailing newline. The text stays within the competition's 1–280 code point limit.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=jjjfbbvm&utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311) · AI agents build software for cash rewards</sub>
